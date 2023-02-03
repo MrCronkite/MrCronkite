@@ -15,7 +15,6 @@
 - 🪡 My goal is to create products, that satisfy customer, meet business requirements, provide flexible and modern functions, combining clean expandable architectural solutions and efficient development time. 
 - 🪡 I constantly strive for self-development, learn something new, read new articles and do not stand still.
 
-
 </td><td valign="top" width="50%">
 
 <h3 align="center">💼 Languages and Tools</h3>
@@ -27,13 +26,22 @@
 - ⛳️ CoreData, Realm
 - ⛳️ MVC, MVP, MVVM, VIPER
   
- 
-  
-<br />
 </tr></tr></table> 
 
-## :fire: My Stats:
+
+<h3 align="center"> ⭐️ My Stats</h3>
+
+
+<table align="center"><tr><td valign="top" width="50%">
+  
 <a href="https://github.com/MrCronkite/github-readme-stats"><img alt="Christine Belzie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCronkite&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrCronkite&theme=github-dark)](https://git.io/streak-stats)
+</td><td valign="top" width="50%">
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrCronkite&theme=github-dark)](https://git.io/streak-stats)
   <br/>
+  
+</tr></tr></table> 
+
+
+
