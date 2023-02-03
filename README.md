@@ -1,20 +1,14 @@
-<h1 align="center">Hello World, I'm <a href="https://daniilshat.ru/" target="_blank">VLAD</a> 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
+<h2 align="center">Hello World, I'm <a href="https://daniilshat.ru/" target="_blank">VLAD</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">IOS developer from Belarus 🦂</h3>
+<h3 align="center">IOS developer from Belarus 🦊</h3>
+</div>
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MrCronkite=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**MrCronkite/MrCronkite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :fire: My Stats:
+<a href="https://github.com/MrCronkite/github-readme-stats"><img alt="Christine Belzie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCronkite&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrCronkite&theme=github-dark)](https://git.io/streak-stats)
+  <br/>
