@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">IOS developer from Belarus 🦂</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/MrCronkiteanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MrCronkite/MrCronkite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
