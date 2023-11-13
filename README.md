@@ -11,7 +11,7 @@
   
 <h3 align="center">About me 😇</h3>
   
-- 🪡 IOS developer with 1+ years of experience in production. 
+- 🪡 IOS developer with 3+ years of experience in production. 
 - 🪡 My goal is to create products, that satisfy customer, meet business requirements, provide flexible and modern functions, combining clean expandable architectural solutions and efficient development time. 
 - 🪡 I constantly strive for self-development, learn something new, read new articles and do not stand still.
 
@@ -22,9 +22,9 @@
 - ⛳️ Swift
 - ⛳️ UIKit, SwiftUI
 - ⛳️ SOLID, KISS, DRY
-- ⛳️ URLSession, Alamofire
+- ⛳️ URLSession, Alamofire, Moya
 - ⛳️ CoreData, Realm
-- ⛳️ MVC, MVP, MVVM, VIPER
+- ⛳️ MVP, MVVM, VIP, VIPER
   
 </tr></tr></table> 
 
