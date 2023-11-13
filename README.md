@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="50%">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrCronkite&theme=github-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrCronkite&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://git.io/streak-stats)
   <br/>
   
 </tr></tr></table> 
