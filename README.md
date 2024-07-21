@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
-<h2 align="center">Hello World, I'm <a href="https://daniilshat.ru/" target="_blank">VLAD</a> 
+<h2 align="center">Hello World, I'm <a href="https://t.me/farles" target="_blank">VLAD</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">IOS developer from Belarus 🦊</h3>
 </div>
