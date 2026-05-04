@@ -1,47 +1,100 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="animated gif of fem-presenting person typing on their computer with icons floating on top of their head" width="300"/>
-<h2 align="center">Hello World, I'm <a href="https://t.me/farles" target="_blank">VLAD</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">IOS developer from Belarus 🦊</h3>
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+
+# 👋 Hey, I'm Vlad
+
+###  iOS Developer | Swift • SwiftUI • Clean Architecture
+
+<a href="https://t.me/farles">
+  <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"/>
+</a>
+
 </div>
 
 ---
 
-<table><tr><td valign="top" width="50%">
-  
-<h3 align="center">About me 😇</h3>
-  
-- 🪡 IOS developer with 3+ years of experience in production. 
-- 🪡 My goal is to create products, that satisfy customer, meet business requirements, provide flexible and modern functions, combining clean expandable architectural solutions and efficient development time. 
-- 🪡 I constantly strive for self-development, learn something new, read new articles and do not stand still.
+## 🚀 About Me
 
-</td><td valign="top" width="50%">
+```swift
+struct Developer {
+    let name = "Vlad"
+    let role = "iOS Developer"
+    let experience = "3+ years"
+    
+    let focus = [
+        "Clean Architecture",
+        "Scalable Apps",
+        "Modern UI/UX"
+    ]
+    
+    let mindset = "Always learning & building"
+}
+```
 
-<h3 align="center">💼 Languages and Tools</h3>
-  
-- ⛳️ Swift
-- ⛳️ UIKit, SwiftUI
-- ⛳️ SOLID, KISS, DRY
-- ⛳️ URLSession, Alamofire, Moya
-- ⛳️ CoreData, Realm
-- ⛳️ MVP, MVVM, VIP, VIPER
-  
-</tr></tr></table> 
+* 📱 Building production-ready iOS apps
+* 🧠 Focused on clean, scalable architecture
+* ⚡ Love balancing speed & quality
+* 📚 Constantly learning and improving
 
+---
 
-<h3 align="center"> ⭐️ My Stats</h3>
+## 🛠 Tech Stack
 
+<div align="center">
 
-<table align="center"><tr><td valign="top" width="50%">
-  
-<a href="https://github.com/MrCronkite/github-readme-stats"><img alt="Christine Belzie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCronkite&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<img src="https://skillicons.dev/icons?i=swift,apple,git,github,firebase,docker,figma,linux" />
 
-</td><td valign="top" width="50%">
+</div>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrCronkite&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://git.io/streak-stats)
-  <br/>
-  
-</tr></tr></table> 
+**Core:**
+
+* Swift, UIKit, SwiftUI
+* MVVM, VIPER, TCA
+
+**Networking:**
+
+* URLSession, Alamofire, Moya
+
+**Storage:**
+
+* CoreData, Realm, SwiftData
+
+**Principles:**
+
+* SOLID • KISS • DRY
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MrCronkite&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCronkite&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> -->
+
+<img src="https://streak-stats.demolab.com?user=MrCronkite&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+## ✨ What I Care About
+
+* Clean and maintainable code
+* User-focused design
+* Performance & smooth UX
+* Real product impact
+
+---
+
+<div align="center">
+
+### 💬 Open for collaboration
+
+</div>
+
 
 
 
